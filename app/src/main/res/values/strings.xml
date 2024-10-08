@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Todo App</string>
+    <string name="type_here">Type here</string>
+    <string name="urgent">Urgent</string>
+    <string name="add">Add</string>
+    <string name="delete_dialog_title">Do you want to delete this?</string>
+    <string name="delete_dialog_message">The selected row is: %d</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Application Todo</string>
+    <string name="type_here">Tapez ici</string>
+    <string name="urgent">Urgent</string>
+    <string name="add">Ajouter</string>
+    <string name="delete_dialog_title">Voulez-vous supprimer ceci?</string>
+    <string name="delete_dialog_message">La ligne sélectionnée est : %d</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+</resources>
